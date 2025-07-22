@@ -16,6 +16,7 @@
 .navbar__item {
   color: white;
   padding: 5px;
+  border-radius: 8px;
 }
 
 .navbar__item_last {
